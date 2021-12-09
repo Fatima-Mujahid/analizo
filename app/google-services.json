@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361098340803",
+    "firebase_url": "https://analizo-15357.firebaseio.com",
+    "project_id": "analizo-15357",
+    "storage_bucket": "analizo-15357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361098340803:android:4ccf673a8628cacf71b576",
+        "android_client_info": {
+          "package_name": "com.example.analizo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361098340803-3cdehre0dcd0l9654gqqe6if976ca1bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.analizo",
+            "certificate_hash": "fe26d970f6ec55c87bc676868c82f389aa543a8a"
+          }
+        },
+        {
+          "client_id": "361098340803-uj01o6mmc7phlel64mrmqr32bfn6sdjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9N104wbm_PTnjNwCgVR1gqGt1uwyRSCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361098340803-uj01o6mmc7phlel64mrmqr32bfn6sdjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
